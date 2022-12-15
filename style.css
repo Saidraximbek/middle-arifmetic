@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-color: cornflowerblue;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+.number--items{
+    display: flex;
+    gap: 2rem;
+}
+
+.number--one .number--two{
+    display: flex;
+    gap: 2rem;
+}
+
+p{
+    font-size: 50px;
+    text-align: center;
+    border: solid 2px black;
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    width: 15rem;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#hisoblash, #monitor3{
+    width: 32rem;
+    height: 5rem;
+}
