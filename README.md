@@ -1,2 +1,2 @@
 # middle-arifmetic
-Bu proyekt ikki sonning o'rta arifmetigini aniqlaydi
+This project calculates the arithmetic mean of two numbers. This Repository contains html, css and javascript files. This program works by using a mathematical operation
